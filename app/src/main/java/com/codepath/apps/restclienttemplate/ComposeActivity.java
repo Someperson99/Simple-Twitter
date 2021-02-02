@@ -30,7 +30,7 @@ public class ComposeActivity extends AppCompatActivity {
     public static final int MAX_TWEET_LENGTH = 280;
 
     TextView tvCharCount;
-    EditText etCompose; // ToDo: need to add a character count,
+    EditText etCompose;
     Button btnTweet;
 
     TwitterClient client;
